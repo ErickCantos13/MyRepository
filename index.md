@@ -5,7 +5,7 @@ layout: page
 title: simple site
 ---
 
-Example Blog.
+Erick Cantos Blog
 -------------
 
  
