@@ -13,7 +13,7 @@ Erick Cantos Blog
 ### September 20, 2017
 
 Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml).  
-![Image of Schedule](https://github.com/ErickCantos13/SensorEffector/tree/master/Images)
+![Image of Schedule](https://github.com/ErickCantos13/SensorEffector/blob/master/Images/gantChart.JPG)
 
 ### September 13, 2017
 
