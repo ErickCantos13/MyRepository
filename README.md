@@ -1,1 +1,1 @@
-# MyRepository
+# SensorEffector DMX Light Repository 
