@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="FINALPROJECT" company="humber.ca" webLink="http://github.com/ErickCantos13" view-date="2017-08-27" view-index="0" gantt-divider-location="840" resource-divider-location="300" version="2.8.1" locale="en_US">
+    <description/>
+    <view zooming-state="default:7" id="gantt-chart">
+        <field id="tpd3" name="Name" width="475" order="0"/>
+        <field id="tpd4" name="Begin date" width="153" order="1"/>
+        <field id="tpd5" name="End date" width="208" order="2"/>
+        <option id="color.recent"><![CDATA[#3333ff #ff3333 #f4f4f4 #00cccc]]></option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+        <date year="2017" month="10" date="6" type="HOLIDAY" color="#00cccc"><![CDATA[Reading Day]]></date>
+        <date year="2017" month="10" date="9" type="HOLIDAY" color="#00cccc"><![CDATA[Reading Day]]></date>
+        <date year="2017" month="10" date="10" type="HOLIDAY" color="#00cccc"><![CDATA[Reading Day]]></date>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="SEMESTER ONE" color="#3333ff" meeting="false" start="2017-09-15" duration="62" complete="0" priority="3" expand="true">
+            <task id="4" name="Proposal Submission" color="#8cb6ce" meeting="false" start="2017-09-15" duration="5" complete="0" expand="true">
+                <depend id="5" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="9" name="Obtain PCBE board" color="#8cb6ce" meeting="false" start="2017-09-22" duration="5" complete="0" expand="true">
+                <depend id="12" type="2" difference="0" hardness="Strong"/>
+                <depend id="21" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="5" name="Budget Research/Calculation" color="#8cb6ce" meeting="false" start="2017-09-22" duration="5" complete="0" expand="true">
+                <depend id="12" type="2" difference="0" hardness="Strong"/>
+                <depend id="21" type="2" difference="0" hardness="Strong"/>
+                <depend id="43" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="43" name="Budget Calculation Due" color="#ff3333" meeting="true" start="2017-09-29" duration="0" complete="0" priority="2" expand="true"/>
+            <task id="12" name="Order Parts/Have Parts Ready" color="#8cb6ce" meeting="false" start="2017-09-29" duration="7" complete="0" expand="true">
+                <depend id="44" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="21" name="Post Unboxing Videos To Blog" color="#8cb6ce" meeting="false" start="2017-09-29" duration="7" complete="0" expand="true"/>
+            <task id="49" name="Watch Soldering Videos" color="#8cb6ce" meeting="false" start="2017-10-05" duration="2" complete="0" expand="true"/>
+            <task id="44" name="Bring Aquisitions" color="#ff3333" meeting="true" start="2017-10-13" duration="0" complete="0" priority="2" expand="true">
+                <depend id="45" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="110" name="Update Blog with Aquisitions Report" meeting="false" start="2017-10-16" duration="1" complete="0" expand="true"/>
+            <task id="45" name="Broadcom SD Card Setup" color="#8cb6ce" meeting="false" start="2017-10-13" duration="5" complete="0" expand="true">
+                <depend id="55" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="55" name="Mechanical Assembly" color="#8cb6ce" meeting="false" start="2017-10-20" duration="5" complete="0" expand="true">
+                <depend id="58" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="58" name="Power-up Assembly" color="#8cb6ce" meeting="false" start="2017-10-27" duration="5" complete="0" expand="true">
+                <depend id="65" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="61" name="Work on Placard" color="#8cb6ce" meeting="false" start="2017-10-27" duration="5" complete="0" expand="true">
+                <depend id="65" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="64" name="Upload Placard to Blog" color="#8cb6ce" meeting="false" start="2017-10-27" duration="5" complete="0" expand="true">
+                <depend id="65" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="68" name="Work on 30-Second Script" color="#8cb6ce" meeting="false" start="2017-10-27" duration="5" complete="0" expand="true"/>
+            <task id="73" name="Install VNC Viewer on Platform" color="#8cb6ce" meeting="false" start="2017-11-02" duration="1" complete="0" expand="true"/>
+            <task id="65" name="Placard Due" color="#ff3333" meeting="true" start="2017-11-03" duration="0" complete="0" expand="true">
+                <depend id="70" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="70" name="30-Second Script Due" color="#ff3333" meeting="true" start="2017-11-03" duration="0" complete="0" expand="true"/>
+            <task id="76" name="Finalize Build Video" color="#8cb6ce" meeting="false" start="2017-11-03" duration="5" complete="0" expand="true">
+                <depend id="79" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="79" name="Build Video Due" color="#ff3333" meeting="true" start="2017-11-10" duration="0" complete="0" expand="true"/>
+            <task id="82" name="Work on Individual Progress Report" color="#8cb6ce" meeting="false" start="2017-11-10" duration="5" complete="0" expand="true">
+                <depend id="85" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="84" name="Prepare for Hardware Demonstration" color="#8cb6ce" meeting="false" start="2017-11-10" duration="5" complete="0" expand="true">
+                <depend id="87" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="85" name="Individual Progress Report Due" color="#ff3333" meeting="true" start="2017-11-17" duration="0" complete="0" expand="true"/>
+            <task id="87" name="Hardware Demonstration" color="#ff3333" meeting="true" start="2017-11-17" duration="0" complete="0" expand="true"/>
+            <task id="89" name="Work on Progress Report" color="#8cb6ce" meeting="false" start="2017-11-17" duration="5" complete="0" expand="true">
+                <depend id="92" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="92" name="Build Log Entry Due" color="#ff3333" meeting="true" start="2017-11-24" duration="0" complete="0" expand="true"/>
+            <task id="94" name="Discuss Key Project Attributes" color="#8cb6ce" meeting="false" start="2017-11-24" duration="6" complete="0" expand="true"/>
+            <task id="112" name="Copy_Work on Progress Report" color="#8cb6ce" meeting="false" start="2017-11-24" duration="5" complete="0" expand="true">
+                <depend id="96" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="96" name="Build Log Entry Due" color="#ff3333" meeting="true" start="2017-12-01" duration="0" complete="0" expand="true"/>
+            <task id="99" name="Work on Individual Presentaion" color="#8cb6ce" meeting="false" start="2017-12-01" duration="5" complete="0" expand="true">
+                <depend id="101" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="101" name="Individual Presentation Due" color="#ff3333" meeting="true" start="2017-12-08" duration="0" complete="0" expand="true"/>
+            <task id="102" name="Work on Build Instructions" color="#8cb6ce" meeting="false" start="2017-12-08" duration="5" complete="0" expand="true">
+                <depend id="104" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="104" name="Build Instructions Due" color="#ff3333" meeting="true" start="2017-12-15" duration="0" complete="0" expand="true"/>
+        </task>
+        <task id="113" name="SEMESTER TWO" color="#3333ff" meeting="false" start="2018-01-08" duration="7" complete="0" expand="true">
+            <task id="119" name="Get Started With AWS IoT" color="#8cb6ce" meeting="false" start="2018-01-08" duration="1" complete="0" expand="true"/>
+            <task id="122" name="Choose a Project" color="#8cb6ce" meeting="false" start="2018-01-09" duration="6" complete="0" expand="true"/>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
