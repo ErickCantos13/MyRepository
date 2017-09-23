@@ -2,7 +2,7 @@
 tagline: Website with GitHub Pages
 description: Simple website with GitHub Pages
 layout: page
-title: simple site
+Title: DMX light progression 
 ---
 
 Erick Cantos Blog
@@ -12,7 +12,7 @@ Erick Cantos Blog
 
 ### September 20, 2017
 
-Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml).  
+Created [project schedule](https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan).  
 ![Image of Schedule](https://github.com/ErickCantos13/SensorEffector/blob/master/Images/gantChart.JPG)
 
 ### September 13, 2017
