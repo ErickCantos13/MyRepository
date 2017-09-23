@@ -17,7 +17,7 @@ Created [project schedule](https://github.com/ErickCantos13/SensorEffector/blob/
 
 ### September 13, 2017
 
-Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
+Created [proposal](https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
 
 ### September 6, 2017
 
