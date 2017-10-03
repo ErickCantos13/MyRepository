@@ -13,7 +13,7 @@ Erick Cantos Blog
 ### September 20, 2017
 
 Created [project schedule](https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan).  
-![Image of Schedule](https://github.com/ErickCantos13/SensorEffector/blob/master/Images/gantChart.JPG)
+![Image of Schedule](https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG)
 
 ### September 13, 2017
 
