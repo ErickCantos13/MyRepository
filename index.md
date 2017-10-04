@@ -1,14 +1,12 @@
+
+Erick Cantos Blog
+-------------
 ---
 tagline: Website with GitHub Pages
 description: Simple website with GitHub Pages
 layout: page
 Title: DMX light progression 
 ---
-
-Erick Cantos Blog
--------------
-
- 
 
 ### September 20, 2017
 
