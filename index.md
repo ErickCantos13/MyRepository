@@ -1,6 +1,7 @@
 
 Erick Cantos Blog
 -------------
+
 ---
 tagline: Website with GitHub Pages
 description: Simple website with GitHub Pages
@@ -24,3 +25,9 @@ Created [repository](https://github.com/six0four/StudentSenseHat).
 ### August 30, 2017
 
 Welcome!
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
