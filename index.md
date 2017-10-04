@@ -33,7 +33,7 @@ Created [repository](https://github.com/six0four/StudentSenseHat).
   </tr>
   <tr>
     <td>Information</td>
-    <td >![Image of Schedule](https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG)</td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300"></td>
     <td></td>
     <td></td>
   </tr>
