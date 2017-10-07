@@ -5,24 +5,14 @@ layout: page
 Title: DMX light progression 
 ---
 
-
 Erick Cantos Blog
 -------------
-
-.
 
 ### September 6, 2017
 
 Created [repository](https://github.com/six0four/StudentSenseHat).
 
 #### Welcome to year 2017!
-
-| Out           | Due           | Assignment                                | Other                                           |
-| :------------:|:-------------:| :----------------------------------------:|:------------------------------------------------|
-| **Sept 8th**| **Sept 15th** | Click [here](https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf) for file | Include Picture here |
-| **Sept 15th 2017**| **Sept 21th** | Click [here](https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan) for file | ![Image of Schedule](https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG)|
-| zebra stripes | are neat      |    $1 | |
-
 
 <table>
   <tr>
@@ -32,16 +22,20 @@ Created [repository](https://github.com/six0four/StudentSenseHat).
     <th>Other</th>
   </tr>
   <tr>
-    <td>Information</td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300"></td>
-    <td></td>
-    <td></td>
+    <!--OUT-->
+    <td>Sept 8th</td>
+    <!--DUE-->
+    <td >Sept 15th</td>
+    <!--ASSIGNMENT-->
+    <td><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf" target="_blank">Download</a></td>
+    <!--OTHER-->
+    <td><!-- Insert Imagee here <img src="" width ="300"> --></td>
   </tr>
   <tr>
-    <td ></td>
-    <td ></td>
-    <td ></td>
-    <td ></td>
+    <td >Sept 16th</td>
+    <td >Sept 21th</td>
+    <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan" target="_blank">Download</a></td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300"></td>
   </tr>
   <tr>
     <td ></td>
