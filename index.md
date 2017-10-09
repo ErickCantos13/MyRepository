@@ -38,16 +38,16 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300" vertical-align="middle"><p>This week I completed my gantt project</p></td>
   </tr>
   <tr>
-    <td >Sept 15th</td>
     <td >Sept 22nd</td>
+    <td >Sept 29th</td>
     <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/Analytical%20Budget.docx">Download .docx</a></td>
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Budget.JPG" width="300" vertical-align="middle"><p>This week I completed the analytical budget</p></td>
   </tr>
   <tr>
+    <td >Sept 30th</td>
+    <td >Oct 13th</td>
     <td ></td>
-    <td ></td>
-    <td ></td>
-    <td ></td>
+    <td >10/09/17 - Planned week to create gerber files, and start up my raspberry pi</td>
   </tr>
   <tr>
     <td ></td>
