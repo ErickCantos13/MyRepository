@@ -10,7 +10,7 @@ Erick Cantos Blog
 
 ### September 6, 2017
 
-Created [repository](https://github.com/six0four/StudentSenseHat).
+Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
 
 #### Welcome to year 2017!
 
@@ -27,20 +27,20 @@ Created [repository](https://github.com/six0four/StudentSenseHat).
     <!--DUE-->
     <td >Sept 15th</td>
     <!--ASSIGNMENT-->
-    <td><p>This week I completed my proposal</p><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf" target="_blank">Download</a></td>
+    <td><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf" target="_blank">Download PDF</a></td>
     <!--OTHER-->
-    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" vertical- align="middle"></td>
+    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" vertical- align="middle"><p>This week I completed my proposal</p></td>
   </tr>
   <tr>
     <td >Sept 16th</td>
-    <td >Sept 21th</td>
-    <td ><p>This week I completed my gantt project</p><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan" target="_blank">Download</a></td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300" vertical-align="middle"></td>
+    <td >Sept 21st</td>
+    <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan" target="_blank">Download .gan file</a></td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300" vertical-align="middle"><p>This week I completed my gantt project</p></td>
   </tr>
   <tr>
-    <td ></td>
-    <td ></td>
-    <td ></td>
+    <td >Sept 15th</td>
+    <td >Sept 22nd</td>
+    <td ><p>This week I worked O</p></td>
     <td ></td>
   </tr>
   <tr>
