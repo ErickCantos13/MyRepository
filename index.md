@@ -27,14 +27,14 @@ Created [repository](https://github.com/six0four/StudentSenseHat).
     <!--DUE-->
     <td >Sept 15th</td>
     <!--ASSIGNMENT-->
-    <td><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf" target="_blank">Download</a></td>
+    <td><p>This week I completed my proposal</p><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf" target="_blank">Download</a></td>
     <!--OTHER-->
-    <td><!-- Insert Imagee here <img src="" width ="300"> --></td>
+    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" vertical- align="middle"></td>
   </tr>
   <tr>
     <td >Sept 16th</td>
     <td >Sept 21th</td>
-    <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan" target="_blank">Download</a></td>
+    <td ><p>This week I completed my gantt project</p><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan" target="_blank">Download</a></td>
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300" vertical-align="middle"></td>
   </tr>
   <tr>
