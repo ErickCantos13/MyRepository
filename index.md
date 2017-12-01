@@ -14,22 +14,32 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
 
 <table>
 
+
   <tr>
     <th>Start</th>
     <th>End</th>
     <th>Objectives</th>
     <th>Other</th>
   </tr>
+    <tr>
+    <td >Nov 24th</td>
+    <td >Dec 1st</td>
+    <td >Awaiting board from the prototype lab<br> Finish all soldering by next week<br>Have connection to the raspberry pi</td>
+    <td ></td>
+  </tr>
   <tr>
     <td >Nov 20th</td>
     <td >Nov 24th</td>
-    <td >Finish the design of the board. Print/Make the Board to begin soldering</td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" width="300" vertical-align="left"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.JPG" width="300" vertical-align="right"></td>
+    <td >Finished the designs of the board. <br>Convert gerber to gerber files<br>Submit the Board to begin soldering</td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" width="300" vertical-align="left"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.jpg" width="300" vertical-align="right">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardtop.JPG" width="300" vertical-align="left">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/baordbottom.JPG" width="300" vertical-align="left">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/baord.JPG" width="300" vertical-align="left"></td>
   </tr>
    <tr>
     <td >Oct 13th</td>
     <td >Nov 20th</td>
-    <td >STRIKE - Raspberry pi 3 arrived in the mail. SD card has been formatted and Raspbian Jesse has been loaded. </td>
+    <td >STRIKE - <br>Raspberry pi 3 arrived in the mail. <br>SD card has been formatted and Raspbian Jesse has been loaded. </td>
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi1.JPG" width="300" vertical-align="left">
 		 <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi2.JPG" width="300" vertical-align="right"></td>
   </tr>
