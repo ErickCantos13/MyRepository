@@ -33,8 +33,8 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Finished the designs of the board. <br>Convert gerber to gerber files<br>Submit the Board to begin soldering</td>
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" width="300" vertical-align="left"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.jpg" width="300" vertical-align="right">
 	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardtop.JPG" width="300" vertical-align="left">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/baordbottom.JPG" width="300" vertical-align="left">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/baord.JPG" width="300" vertical-align="left"></td>
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardbottom.JPG" width="300" vertical-align="left">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/board.PNG" width="300" vertical-align="left"></td>
   </tr>
    <tr>
     <td >Oct 13th</td>
