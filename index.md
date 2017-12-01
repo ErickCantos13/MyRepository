@@ -24,7 +24,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Nov 20th</td>
     <td >Nov 24th</td>
     <td >Finish the design of the board. Print/Make the Board to begin soldering</td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" width="300" vertical-align="left"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.JPG" width="300" vertical-align="right"></td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" width="300" vertical-align="left"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.jpg" width="300" vertical-align="right"></td>
   </tr>
    <tr>
     <td >Oct 13th</td>
