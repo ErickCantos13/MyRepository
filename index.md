@@ -13,8 +13,6 @@ Erick Cantos - My Sensor Effector
 Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
 
 <table>
-
-
   <tr>
     <th>Start</th>
     <th>End</th>
