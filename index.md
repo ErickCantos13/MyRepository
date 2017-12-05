@@ -40,7 +40,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Nov 20th</td>
     <td >STRIKE - <br>Raspberry pi 3 arrived in the mail. <br>SD card has been formatted and Raspbian Jesse has been loaded. </td>
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi1.JPG" align="left" width="300">
-		 <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi2.JPG" align="right" width="300"></td>
+		 <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi2.JPG" align="left" width="300"></td>
   </tr>
   <tr>
     <td >Sept 29th</td>
