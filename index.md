@@ -29,11 +29,11 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Nov 20th</td>
     <td >Nov 24th</td>
     <td >Finished the designs of the board. <br>Convert gerber to gerber files<br>Submit the Board to begin soldering</td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG">
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" width="300">
 	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.jpg" width="300">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardtop.JPG" width="300" align="right">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardbottom.JPG" width="300" align="right">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/board.PNG" width="400" height="300" align="right"></td>
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardtop.JPG" width="300">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardbottom.JPG" width="300">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/board.PNG" width="350" height="300"></td>
   </tr>
    <tr>
     <td >Oct 13th</td>
@@ -57,7 +57,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
    <tr>
     <td >Sept 15th</td>
     <td >Sept 22nd</td>
-    <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan" target="_blank">Download .gan</a></td>
+    <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan">Download .gan</a></td>
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300" align="center"><p>Completion of gantt project</p></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <!--DUE-->
     <td >Sept 15th</td>
     <!--ASSIGNMENT-->
-    <td><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf" target="_blank">Download .pdf</a></td>
+    <td><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf">Download .pdf</a></td>
     <!--OTHER-->
     <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" vertical-align="middle"><p>Proposal</p></td>
   </tr>
