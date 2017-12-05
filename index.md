@@ -68,7 +68,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <!--ASSIGNMENT-->
     <td><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf" target="_blank">Download .pdf</a></td>
     <!--OTHER-->
-    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" align="center"><p>Proposal</p></td>
+    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" vertical-align="middle"><p>Proposal</p></td>
   </tr>
   <tr>
     <td ></td>
