@@ -5,21 +5,60 @@ layout: page
 Title: DMX light progression 
 --->
 
-Erick Cantos Blog
+Erick Cantos - My Sensor Effector
 -------------
 
-### September 6, 2017
+### DMX Light - The reciever 
 
 Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
 
-#### Welcome to year 2017!
-
 <table>
   <tr>
-    <th>Out</th>
-    <th>Due</th>
-    <th>Assignment</th>
+    <th>Start</th>
+    <th>End</th>
+    <th>Objectives</th>
     <th>Other</th>
+  </tr>
+    <tr>
+    <td >Nov 24th</td>
+    <td >Dec 1st</td>
+    <td >Awaiting board from the prototype lab<br> Finish all soldering by next week<br>Have connection to the raspberry pi</td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td >Nov 20th</td>
+    <td >Nov 24th</td>
+    <td >Finished the designs of the board. <br>Convert gerber to gerber files<br>Submit the Board to begin soldering</td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" style="float:left;width:300px;height:300px;">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.jpg">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardtop.JPG">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardbottom.JPG">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/board.PNG"></td>
+  </tr>
+   <tr>
+    <td >Oct 13th</td>
+    <td >Nov 20th</td>
+    <td >STRIKE - <br>Raspberry pi 3 arrived in the mail. <br>SD card has been formatted and Raspbian Jesse has been loaded. </td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi1.JPG"  align="center" width="300">
+		 <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi2.JPG"  align="right" width="300"></td>
+  </tr>
+  <tr>
+    <td >Sept 29th</td>
+    <td >Oct 13th</td>
+    <td ></td>
+    <td >Taking this week to discuss and plan designs</td>
+  </tr>
+    <tr>
+    <td >Sept 22nd</td>
+    <td >Sept 29th</td>
+    <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/Analytical%20Budget.docx">Download .docx</a></td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Budget.JPG" width="300" align="center"><p>Completion of the analytical budget</p></td>
+  </tr>
+   <tr>
+    <td >Sept 15th</td>
+    <td >Sept 22nd</td>
+    <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan" target="_blank">Download .gan</a></td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300" align="center"><p>Completion of gantt project</p></td>
   </tr>
   <tr>
     <!--OUT-->
@@ -29,31 +68,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <!--ASSIGNMENT-->
     <td><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf" target="_blank">Download .pdf</a></td>
     <!--OTHER-->
-    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" vertical- align="middle"><p>This week I completed my proposal</p></td>
-  </tr>
-  <tr>
-    <td >Sept 16th</td>
-    <td >Sept 21st</td>
-    <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan" target="_blank">Download .gan</a></td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300" vertical-align="middle"><p>This week I completed my gantt project</p></td>
-  </tr>
-  <tr>
-    <td >Sept 22nd</td>
-    <td >Sept 29th</td>
-    <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/Analytical%20Budget.docx">Download .docx</a></td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Budget.JPG" width="300" vertical-align="middle"><p>This week I completed the analytical budget</p></td>
-  </tr>
-  <tr>
-    <td >Sept 30th</td>
-    <td >Oct 13th</td>
-    <td ></td>
-    <td >10/09/17 - Planned week to create gerber files, and start up my raspberry pi</td>
-  </tr>
-  <tr>
-    <td ></td>
-    <td ></td>
-    <td ></td>
-    <td ></td>
+    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" align="center"><p>Proposal</p></td>
   </tr>
   <tr>
     <td ></td>
