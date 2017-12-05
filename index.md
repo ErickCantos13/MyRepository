@@ -77,3 +77,10 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td ></td>
   </tr>
 </table>
+
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
