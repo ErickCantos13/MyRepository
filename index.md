@@ -30,10 +30,10 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Nov 24th</td>
     <td >Finished the designs of the board. <br>Convert gerber to gerber files<br>Submit the Board to begin soldering</td>
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" style="float:left;width:300px;height:300px;">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.jpg" style="float:left;width:300px;height:300px;">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardtop.JPG" style="float:right;width:300px;height:300px;">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardbottom.JPG" style="float:right;width:300px;height:300px;">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/board.PNG" style="float:right;width:300px;height:300px;"></td>
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.jpg" style="float:left;width:300;">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardtop.JPG" style="float:right;width:300;">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardbottom.JPG" style="float:right;width:300;">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/board.PNG" style="float:right;width:300;"></td>
   </tr>
    <tr>
     <td >Oct 13th</td>
