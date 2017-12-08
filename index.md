@@ -19,7 +19,14 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <th>Objectives</th>
     <th>Other</th>
   </tr>
-    <tr>
+   <tr>
+    <td>Dec 1st</td>
+    <td >Dec 2nd</td>
+    <td >Finished soldering board, Finished placard, Finished 30 Second Script</td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placardIMG2.jpg" width="300">
+	  <a href="https://github.com/ErickCantos13/SensorEffector/blob/master/Documentation/30SecScript.docx">Download .gan</a></td>
+  </tr>
+  <tr>
     <td >Nov 24th</td>
     <td >Dec 1st</td>
     <td >Awaiting board from the prototype lab<br> Finish all soldering by next week<br>Have connection to the raspberry pi</td>
@@ -39,7 +46,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Oct 13th</td>
     <td >Nov 20th</td>
     <td >STRIKE - <br>Raspberry pi 3 arrived in the mail. <br>SD card has been formatted and Raspbian Jesse has been loaded. </td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi1.JPG"   width="300">
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi1.JPG" width="300">
 		 <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi2.JPG"  align="right" width="300"></td>
   </tr>
   <tr>
@@ -78,9 +85,4 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
   </tr>
 </table>
 
-td img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 
-}
