@@ -22,16 +22,16 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
   <tr>
     <td >Dec 8th</td
     <td >Dec 15th</td>
-    <td >This week I finished the edited the final build video for my Crystal Fountains Receiver</td>
+    <td >This week I finished editing the final build video for my Crystal Fountains Receiver</td>
     <td ><a href="https://drive.google.com/open?id=1RMYQkmZcR2M3DJYZOQrWYFoXUEizEY7i">View Video</a></td>
   </tr>
    <tr>
     <td>Dec 1st</td>
     <td >Dec 8th</td>
-    <td >Finished soldering board, Finished placard, Finished 30 Second Script</td>
+    <td >Finished soldering board, Finished placard, Finished 30 Second Script <br><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/placard.pub">Download Placard</a><br>
+	    <a href="https://github.com/ErickCantos13/SensorEffector/blob/master/Documentation/30SecScript.docx">Download 30secScript</a</td>
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placardIMG2.jpg" width="300">
-	  <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placard.JPG" width="300"><br><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/placard.pub">Download Placard</a><br>
-	    <a href="https://github.com/ErickCantos13/SensorEffector/blob/master/Documentation/30SecScript.docx">Download 30secScript</a></td>
+	  <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placard.JPG" width="300"></td>
   </tr>
   <tr>
     <td >Nov 24th</td>
