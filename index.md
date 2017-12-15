@@ -28,7 +28,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
    <tr>
     <td>Dec 1st</td>
     <td >Dec 8th</td>
-    <td >Finished soldering board, Finished placard, Finished 30 Second Script <br><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/placard.pub">Download Placard</a><br>
+    <td >Finished soldering board, Finished placard, Finished 30 Second Script  <a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/placard.pub">Download Placard</a>
 	    <a href="https://github.com/ErickCantos13/SensorEffector/blob/master/Documentation/30SecScript.docx">Download 30secScript</a</td>
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placardIMG2.jpg" width="300">
 	  <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placard.JPG" width="300"></td>
