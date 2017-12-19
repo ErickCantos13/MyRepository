@@ -20,7 +20,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <th>Other</th>
   </tr>
   <tr>
-    <td >Dec 8th</td
+    <td >Dec 8th</td>
     <td >Dec 15th</td>
     <td >This week I finished editing the final build video for my Crystal Fountains Receiver</td>
     <td ><a href="https://drive.google.com/open?id=1RMYQkmZcR2M3DJYZOQrWYFoXUEizEY7i">View Video</a></td>
@@ -28,7 +28,8 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
    <tr>
     <td>Dec 1st</td>
     <td >Dec 8th</td>
-    <td >Finished soldering board, Finished placard, Finished 30 Second Script  <br><br><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/placard.pub">Download Placard</a>
+    <td >Finished soldering board, Finished placard, Finished 30 Second Script<br><br>
+		<a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/placard.pub">Download Placard</a>
 	    <a href="https://github.com/ErickCantos13/SensorEffector/blob/master/Documentation/30SecScript.docx">Download 30secScript</a</td>
     <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placardIMG2.jpg" width="300">
 	  <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placard.JPG" width="300"></td>
@@ -82,14 +83,17 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <!--ASSIGNMENT-->
     <td><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf">Download .pdf</a></td>
     <!--OTHER-->
-    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" vertical-align="middle"><p>Proposal</p></td>
+    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" valign="middle"><p>Proposal</p></td>
   </tr>
-  <tr>
+  
+<!-- TEMPLATE 
+ <tr>
     <td ></td>
     <td ></td>
     <td ></td>
     <td ></td>
   </tr>
+  -->
 </table>
 
 
