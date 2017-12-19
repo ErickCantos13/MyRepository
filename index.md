@@ -67,13 +67,13 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Sept 22nd</td>
     <td >Sept 29th</td>
     <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/Analytical%20Budget.docx">Download .docx</a></td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Budget.JPG" width="300" align="center"><p>Completion of the analytical budget</p></td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Budget.JPG" width="300" align="middle"><p>Completion of the analytical budget</p></td>
   </tr>
    <tr>
     <td >Sept 15th</td>
     <td >Sept 22nd</td>
     <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan">Download .gan</a></td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300" align="center"><p>Completion of gantt project</p></td>
+    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300" align="middle"><p>Completion of gantt project</p></td>
   </tr>
   <tr>
     <!--OUT-->
@@ -83,7 +83,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <!--ASSIGNMENT-->
     <td><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProposalContentStudentNameRev02.pdf">Download .pdf</a></td>
     <!--OTHER-->
-    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" valign="middle"><p>Proposal</p></td>
+    <td><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Proposal.JPG" width ="300" align="middle"><p>Proposal</p></td>
   </tr>
   
 <!-- TEMPLATE 
