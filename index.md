@@ -88,7 +88,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
   
 <!-- TEMPLATE 
  <tr>
-    <td ></td>
+    <td >i</td>
     <td ></td>
     <td ></td>
     <td ></td>
