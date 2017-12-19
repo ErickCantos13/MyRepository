@@ -44,7 +44,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Nov 20th</td>
     <td >Nov 24th</td>
     <td >Finished the designs of the board. <br>Convert gerber to gerber files<br>Submit the Board to begin soldering<br></td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" width="300">
+    <td align="middle"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" width="300">
 	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.jpg" width="300">
 	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardtop.JPG" width="300">
 	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardbottom.JPG" width="300">
@@ -54,8 +54,8 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Oct 13th</td>
     <td >Nov 20th</td>
     <td >STRIKE - <br>Raspberry pi 3 arrived in the mail. <br>SD card has been formatted and Raspbian Jesse has been loaded. </td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi1.JPG" width="300">
-		 <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi2.JPG"  align="right" width="300"></td>
+    <td align="middle">	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi1.JPG" width="300">
+						<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi2.JPG"  width="300"></td>
   </tr>
   <tr>
     <td >Sept 29th</td>
@@ -67,13 +67,13 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Sept 22nd</td>
     <td >Sept 29th</td>
     <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/Analytical%20Budget.docx">Download .docx</a></td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Budget.JPG" width="300" align="middle"><p>Completion of the analytical budget</p></td>
+    <td align="middle"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Budget.JPG" width="300" ><p>Completion of the analytical budget</p></td>
   </tr>
    <tr>
     <td >Sept 15th</td>
     <td >Sept 22nd</td>
     <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/ErickCantosHardwareProject.gan">Download .gan</a></td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300" align="middle"><p>Completion of gantt project</p></td>
+    <td align="middle"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/gantChart.JPG" width="300"><p>Completion of gantt project</p></td>
   </tr>
   <tr>
     <!--OUT-->
