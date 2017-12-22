@@ -74,7 +74,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Sept 22nd</td>
     <td >Sept 29th</td>
     <td ><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/Analytical%20Budget.docx">Download .docx</a></td>
-    <td align="middle"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Budget.JPG" width="300" ><p>Completion of the analytical budget</p></td>
+    <td align="middle"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/Budget.JPG" width="300" ><p>Completion of the analytical budget</p><br><br><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/RevisedBudget.JPG"><p>New Revised budget 12/21/2017<p></td>
   </tr>
    <tr>
     <td >Sept 15th</td>
