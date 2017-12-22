@@ -19,49 +19,56 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <th>Objectives</th>
     <th>Other</th>
   </tr>
+   <tr>
+    <td >Dec 15th</td>
+    <td >Dec 21st</td>
+    <td >Progress Report Week</td>
+    <td >N/A</td>
+  </tr>
   <tr>
     <td >Dec 8th</td>
     <td >Dec 15th</td>
     <td >This week I finished editing the final build video for my Crystal Fountains Receiver</td>
-    <td ><a href="https://drive.google.com/open?id=1RMYQkmZcR2M3DJYZOQrWYFoXUEizEY7i">View Video</a></td>
+    <td align="middle">Click <a href="https://drive.google.com/open?id=1RMYQkmZcR2M3DJYZOQrWYFoXUEizEY7i">here</a> to watch</td>
   </tr>
    <tr>
     <td>Dec 1st</td>
     <td >Dec 8th</td>
-    <td >Finished soldering board, Finished placard, Finished 30 Second Script<br><br>
-		<a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/placard.pub">Download Placard</a>
-	    <a href="https://github.com/ErickCantos13/SensorEffector/blob/master/Documentation/30SecScript.docx">Download 30secScript</a</td>
-    <td ><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placardIMG2.jpg" width="300">
-	  <img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placard.JPG" width="300"></td>
+    <td >Parts arrived, video recording commenced<br><br>Recieved PCB, soldering parts completed<br><br>Completion of Group Placard<br><br>
+	<a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/placard.pub">Download Placard</a><br>
+	<a href="https://github.com/ErickCantos13/SensorEffector/blob/master/Documentation/30SecScript.docx">Download 30secScript</a></td>
+    <td align="middle"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placardIMG2.jpg" width="300">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placard.JPG" width="300"></td>
   </tr>
   <tr>
     <td >Nov 24th</td>
     <td >Dec 1st</td>
-    <td >Awaiting board from the prototype lab<br> Finish all soldering by next week<br>Have connection to the raspberry pi</td>
+    <td >Awaiting requested board to be made in Humber prototype room<br><br>Personal goal to finish all soldering by next week<br><br>Will begin connection to raspberry pi through VNC viewer</td>
     <td ></td>
   </tr>
   <tr>
     <td >Nov 20th</td>
     <td >Nov 24th</td>
-    <td >Finished the designs of the board. <br>Convert gerber to gerber files<br>Submit the Board to begin soldering<br></td>
-    <td align="middle"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" width="300">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.jpg" width="300">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardtop.JPG" width="300">
+    <td >Completion of board design<br><br>Board design to gerber file conversion<br><br>Submitted files to the Humber prototype lab<br><br>Parts purchased</td>
+    <td align="middle">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/itemCart.jpg" width="500">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/design.JPG" width="300">
 	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardbottom.JPG" width="300">
-	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/board.PNG" width="350" height="300"></td>
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/boardtop.JPG" width="300">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/board.PNG" width="450" height="300"></td>
   </tr>
    <tr>
     <td >Oct 13th</td>
     <td >Nov 20th</td>
-    <td >STRIKE - <br>Raspberry pi 3 arrived in the mail. <br>SD card has been formatted and Raspbian Jesse has been loaded. </td>
-    <td align="middle">	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi1.JPG" width="300">
-						<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi2.JPG"  width="300"></td>
+    <td ><b>(Humber Strike)<b><br><br>Raspberry pi 3 arrived in the mail.<br><br>SD card formatted & Raspbian Jesse loaded.</td>
+    <td align="middle"><img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi1.JPG" width="300">
+	<img src="https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/pi2.JPG"  width="300"></td>
   </tr>
   <tr>
     <td >Sept 29th</td>
     <td >Oct 13th</td>
-    <td ></td>
-    <td >Taking this week to discuss and plan designs</td>
+    <td align="middle">Taking this week to discuss and plan designs</td>
+    <td align="middle">Scheduled class falls under reading day</td>
   </tr>
     <tr>
     <td >Sept 22nd</td>
