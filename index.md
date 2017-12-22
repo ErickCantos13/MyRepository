@@ -22,8 +22,8 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
    <tr>
     <td >Dec 15th</td>
     <td >Dec 21st</td>
-    <td >Progress Report Week</td>
-    <td >N/A</td>
+    <td >Progress Report Week<br><br><a href="https://github.com/ErickCantos13/SensorEffector/blob/master/documentation/ProgessReport.docx">Download Report</a></td>
+    <td >N/A/td>
   </tr>
   <tr>
     <td >Dec 8th</td>
