@@ -23,7 +23,7 @@ Click [here](https://github.com/ErickCantos13/SensorEffector) for my repository.
     <td >Dec 21st</td>
     <td >January 12th</td>
     <td >Presentation Due</td>
-    <td >Click <a href="https://drive.google.com/open?id=1kM5hX2XQRty6otBpPYeM0nq1R8U0CrrP">here</a> to download Presentation</td>
+    <td align="middle">Click <a href="https://drive.google.com/open?id=1kM5hX2XQRty6otBpPYeM0nq1R8U0CrrP">here</a> to download Presentation</td>
   </tr>
    <tr>
     <td >Dec 15th</td>
